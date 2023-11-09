@@ -15,3 +15,5 @@ weapons: swords, bows, battle axes, shields
   weapons can be enchanted with: fire, water, lightning
   
 some sort of building mechanic for building: forts, camps, compounds, etc.
+
+multiplayer: implementation with netcode for gameobjects and steamworks
